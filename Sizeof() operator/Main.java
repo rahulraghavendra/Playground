@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+ 
+  cout<<sizeof(char)<<endl;
+  cout<<sizeof(int)<<endl;
+  cout<<sizeof(float)<<endl;
+  cout<<sizeof(double)<<endl;
+  
+  //Type your code here.
+}
